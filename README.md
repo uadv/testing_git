@@ -2,7 +2,7 @@
 
 This is normal text
 
-** This is bold text **
+**This is bold text**
 
-* This is italian Text o_o *
+*This is italian Text o_o*
 

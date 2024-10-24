@@ -1,4 +1,4 @@
-# Welcome! , This is my Testing Repo #
+# Welcome! , This is my Testing Repo
 
 This is normal text
 ** This is bold text **
